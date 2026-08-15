@@ -1,29 +1,16 @@
-# 关于我 / About Me
+## About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 烟墨 ，现在高三。
+一名 INFP 6w5
 
-## 🛠️ 关于本站
+[16personality](https://www.16personality.com.cn/infp.html)
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+[Enneagram Assessment](https://enneagramassessment.org/enneagram-type-6w5)
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+个人介绍这东西对我来说 我有很多想说的 但是又不是说什么的感觉。
 
+~~建站是乱建的，技术是乱学的，想法是疯子来的~~
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+建站总得建出个头来吧。所以随便写的为主，~~可能诗兴大发去抄抄朋友的文章也不是不无可能~~，既然如此，不妨去看看[友人帐](/friends)那边看看朋友们写的文章。
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
----
-
-*感谢你的来访！希望在这里能找到对你有用的内容！*
-
+个人爱好说来很奇怪，没有主见。倒是赛车类和射击类游戏很喜欢玩。

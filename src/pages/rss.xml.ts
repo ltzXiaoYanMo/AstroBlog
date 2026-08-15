@@ -32,7 +32,7 @@ export async function GET(context: APIContext): Promise<Response> {
 				title: post.data.title,
 				pubDate: post.data.published,
 				description: post.data.description || "",
-				link: url(`/posts/${post.id}/`),
+				link: url(`/archives/${post.id}/`),
 				content: i18n(I18nKey.passwordProtectedRss),
 			});
 			continue;
@@ -44,7 +44,7 @@ export async function GET(context: APIContext): Promise<Response> {
 			title: post.data.title,
 			pubDate: post.data.published,
 			description: post.data.description || "",
-			link: url(`/posts/${post.id}/`),
+			link: url(`/archives/${post.id}/`),
 			content: sanitizeHtml(cleanedContent, {
 				allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
 			}),

@@ -893,19 +893,34 @@ const hasMultipleImages =
             const subtitleElement = document.getElementById('banner-subtitle');
             if (!subtitleElement) return;
 
+            // 先尝试从 hitokoto API 获取一言
+            if (!window.fireflyCachedSubtitle) {
+                fetch('https://v1.hitokoto.cn')
+                    .then(res => res.json())
+                    .then(data => {
+                        if (data && data.hitokoto) {
+                            window.fireflyCachedSubtitle = data.hitokoto;
+                            subtitleElement.textContent = data.hitokoto;
+                        }
+                    })
+                    .catch(() => {
+                        // API 失败时使用配置的副标题
+                        fallbackToLocalSubtitle(subtitleElement);
+                    });
+            } else {
+                subtitleElement.textContent = window.fireflyCachedSubtitle;
+            }
+        }
+
+        function fallbackToLocalSubtitle(subtitleElement) {
             const subtitlesData = subtitleElement.dataset.subtitles;
             if (!subtitlesData) return;
 
             try {
                 const subtitles = JSON.parse(subtitlesData);
-                // Only randomize if it's an array and typewriter is NOT enabled (check for typewriter class)
-                if (Array.isArray(subtitles) && subtitles.length > 0 && !subtitleElement.querySelector('.typewriter')) {
-                    // Use a global variable to persist the subtitle across Swup navigations
-                    // This variable will be reset on full page reload (F5), meeting the requirement
-                    if (!window.fireflyCachedSubtitle) {
-                        const randomIndex = Math.floor(Math.random() * subtitles.length);
-                        window.fireflyCachedSubtitle = subtitles[randomIndex];
-                    }
+                if (Array.isArray(subtitles) && subtitles.length > 0) {
+                    const randomIndex = Math.floor(Math.random() * subtitles.length);
+                    window.fireflyCachedSubtitle = subtitles[randomIndex];
                     subtitleElement.textContent = window.fireflyCachedSubtitle;
                 }
             } catch (e) {
