@@ -24,7 +24,7 @@ $$
 ## 音箱设备
 ![自己现场拍的](/assets/images/wenzhou-imax-3rd/up-sound.png)
 
-![官网](https://omo-oss-image.thefastimg.com/portal-saas/cms/image/dde8f124-cfe8-4861-b1e3-0c2c7292782c.jpg_560xaf.jpg)
+![官网](/assets/images/wenzhou-imax-3rd/dde8f124-cfe8-4861-b1e3-0c2c7292782c.jpg_560xaf.jpg)
 
 按照 IMAX 对于第三代激光来做的音箱系统。（12声道系统：银幕后四个声道，天花板四个声道，左右各两个声道）
 
