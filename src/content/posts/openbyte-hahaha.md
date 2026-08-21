@@ -15,11 +15,11 @@ published: 2024-05-29 06:22:22
 
 我去哥们，直接去抄袭 OpenFrp 的官网，也是很有实力的。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-1-1024x550.png)
+![](/wp-content/uploads/2024/05/图片-1-1024x550.png)
 
 我们先不说这玩意这玩意抄不抄的问题，我们拉到最底下。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-2.png)
+![](/wp-content/uploads/2024/05/图片-2.png)
 
 《网上有害信息举报专区》，这下自首了。
 
@@ -33,42 +33,42 @@ published: 2024-05-29 06:22:22
 
 首先，我们的 OpenByte 大蛇直接在头上标上了我们"一用就进橘子"的 Kali Linux，生怕别人不知道他们不知道 Kali Linux 这个系统。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-3-1024x683.png)
+![](/wp-content/uploads/2024/05/图片-3-1024x683.png)
 
 再说他们的帖子。也是《很》有《实力》的啊。
 
 我来给你们展示下他们的测试配置啊。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-4-1024x361.png)
+![](/wp-content/uploads/2024/05/图片-4-1024x361.png)
 
 人家不红就怪了捏😋
 
 ## 逆天言论
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-5.png)
+![](/wp-content/uploads/2024/05/图片-5.png)
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-6.png)
+![](/wp-content/uploads/2024/05/图片-6.png)
 
 Kali：你这样说我很没用诶。
 
 我只能说
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-7.png)
+![](/wp-content/uploads/2024/05/图片-7.png)
 
 我去，《没人用》
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-8.png)
+![](/wp-content/uploads/2024/05/图片-8.png)
 
 十分甚至九分的有实力
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/d15eb9faad939df9d537b1b6a1c96890.jpg)
+![](/wp-content/uploads/2024/05/d15eb9faad939df9d537b1b6a1c96890.jpg)
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/089c5b124c3fa17bf8c2fdd1bd1117ac.png)
+![](/wp-content/uploads/2024/05/089c5b124c3fa17bf8c2fdd1bd1117ac.png)
 
 ## 怎么不说话了？
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-9.png)
+![](/wp-content/uploads/2024/05/图片-9.png)
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-10.png)
+![](/wp-content/uploads/2024/05/图片-10.png)
 
 🤣
