@@ -45,7 +45,7 @@ HiddenServicePort 80 127.0.0.1:80
 如果你用的是 1Panel 开站，你可以新建一个网站，端口设置为非标（80, 443）端口。
 
 创建完成后，前往 网站配置 - 配置文件 中，将 `server_name` 后面的域名更改为`_`
-![](/assets/images/create-onion/nginx_config.png)
+![](https://static.ymbit.cn/images/create-onion/nginx_config.png)
 若你修改完了`/etc/tor/torrc`文件，你可以输入
 ```shell
 service tor restart
@@ -80,11 +80,11 @@ make
 
 ## 申明 Onion 网站
 若你的正常网站和 Onion 网站的相同的话，你可以尝试这么宣传。
-![](/assets/images/create-onion/show_onion_domain.png)
+![](https://static.ymbit.cn/images/create-onion/show_onion_domain.png)
 - 若你的正常网站使用了内容分发网络（CDN），在此之前请查看服务商是否限制了 HTTP-Header
 进入Nginx配置文件目录，在`server`块内输入`add_header`，头内容可以参照我的。
 ```nginx
 add_header Onion-Location http://ymbitjzgoubbonj65qs3rcw5g6xqcexldrwpf535kgx4qwrg72oiklyd.onion;
 ```
 如果你的 CDN 是 Cloudflare，你可以在 规则-概述-创建规则 中这么填写
-![](/assets/images/create-onion/cloudflare-rules.png)
+![](https://static.ymbit.cn/images/create-onion/cloudflare-rules.png)

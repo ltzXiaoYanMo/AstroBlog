@@ -19,12 +19,12 @@ category: 杂谈
 
 说真的，要不是他们回复了我还真不知道有分包这东西...
 
-![](/assets/images/TencentCloud-NodeJS-issue/issue66_reply.png)
+![](https://static.ymbit.cn/images/TencentCloud-NodeJS-issue/issue66_reply.png)
 
 ## 疑似使用 GitHub Mobile 写 Markdown
 他们 Markdown 也是不会用的那种。
 
-![](/assets/images/TencentCloud-NodeJS-issue/issue66_markdown.png)
+![](https://static.ymbit.cn/images/TencentCloud-NodeJS-issue/issue66_markdown.png)
 
 ### 难绷的一集
 <https://github.com/TencentCloud/tencentcloud-sdk-nodejs/pull/169>
@@ -32,7 +32,7 @@ category: 杂谈
 > 你们那还缺工作么？能不能远程办公？如果腾讯开发者这种水平，我能不能上来混口饭吃啊？
 > —— PR Author
 
-![](/assets/images/TencentCloud-NodeJS-issue/tg_channel.png)
+![](https://static.ymbit.cn/images/TencentCloud-NodeJS-issue/tg_channel.png)
 
 最后祝大家新年快乐！也祝腾讯云的开发者新年快乐！
 

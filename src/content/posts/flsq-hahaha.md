@@ -37,6 +37,6 @@ published: 2024-02-23 18:44:21
 
 啊这时候我就要说了啊
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/05/图片-1024x725.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/05/图片-1024x725.png)
 
 你打个鸡蛋啊，乐🤣👌

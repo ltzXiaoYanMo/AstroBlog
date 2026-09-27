@@ -26,7 +26,7 @@ category: 杂谈
 
 还有：
 
-![](/assets/images/lodging-students/78f4e30a06aebc6db71b1d3f402d35ca.png)
+![](https://static.ymbit.cn/images/lodging-students/78f4e30a06aebc6db71b1d3f402d35ca.png)
 
 学业越高，压力来源是多种多样的，但无一例外都是"学业越高，压力越大"的局面产生。
 
@@ -54,7 +54,7 @@ category: 杂谈
 
 我最初表示不理解，但是我看《学校官网》我就立马理解了。
 
-![](/assets/images/lodging-students/73cc3dfae611f8dd72360312b3e4fb60.png)
+![](https://static.ymbit.cn/images/lodging-students/73cc3dfae611f8dd72360312b3e4fb60.png)
 
 能讲出这些规矩的学校，我也就理解为什么学校能出这些逆天规则了。
 

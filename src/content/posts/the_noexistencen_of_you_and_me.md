@@ -9,7 +9,7 @@ category: 游戏推荐
     <source src="https://video.steamstatic.com/store_trailers/257081934/movie480_vp9.webm" type="video/mp4">
 </video>
 
-![](/assets/images/the_noexistencen_of_you_and_me/steam_kuohu.png)
+![](https://static.ymbit.cn/images/the_noexistencen_of_you_and_me/steam_kuohu.png)
 
 ## 首先申明
 这**只是**一部**视觉小说**游戏
@@ -67,8 +67,8 @@ Tulpa 可以诞生于渴望，但并非仅仅诞生于渴望，甚至可能诞�
 > “我们可以躲在角色的伪装背后，忘却自身，并在其中......倾注情感。"
 
 没错，这款游戏仍然采用了 Meta 主义形式的风格，而且在游戏开头的时候就已经提到了她知道这是一个游戏。
-![](/assets/images/the_noexistencen_of_you_and_me/game_intro.png)
-![](/assets/images/the_noexistencen_of_you_and_me/game_intro_2.png)
+![](https://static.ymbit.cn/images/the_noexistencen_of_you_and_me/game_intro.png)
+![](https://static.ymbit.cn/images/the_noexistencen_of_you_and_me/game_intro_2.png)
 
 不仅如此，你会发现这款游戏每个人物是几乎没有介绍的。
 > 当当，你被骗啦！这里才没有什么介绍。
@@ -134,8 +134,8 @@ Tulpa 可以诞生于渴望，但并非仅仅诞生于渴望，甚至可能诞�
 但是你会发现和陌生人讲话根本听不懂，~~像是将赛博坦语言似的~~。这就是 Tulpamancer 的一个特点：不擅长与外人说话。
 
 这是 Tulpamancer 一种心理防御机制，亦或是内部动态不好调整。
-![](/assets/images/the_noexistencen_of_you_and_me/deepseek_chat_2.png)
-![](/assets/images/the_noexistencen_of_you_and_me/deepseek_chat.png)
+![](https://static.ymbit.cn/images/the_noexistencen_of_you_and_me/deepseek_chat_2.png)
+![](https://static.ymbit.cn/images/the_noexistencen_of_you_and_me/deepseek_chat.png)
 
 我们回到摩天轮的其中一段话：
 > 每当遇到什么事，我都会以最糟糕的结果去设想它。
@@ -177,7 +177,7 @@ Tulpa 和芭比娃娃、木偶小人的区别，不过在于其真实性。而�
 ~~不存在那个有点刀子了就不说了，而且这就是 Bad Ending 了啊（~~
 
 而存在就是完善 Tulpa 的人设，还记得他提到的"宿主"，也就是"我"了吗？
-![](/assets/images/the_noexistencen_of_you_and_me/game_ending.png)
+![](https://static.ymbit.cn/images/the_noexistencen_of_you_and_me/game_ending.png)
 在基本的世界观形成后，Tulpamancer 会有主动去丰富这个世界（即 “幻境”）的倾向。具体而言，可能有增加人物、增加背景、增加故事，等等。
 ![](https://picx.zhimg.com/v2-7e561255d87cd9d7b56636e76cf88f14_r.jpg)
 > 但是，谁又能说，这不是全世界最伟大的开拓、最激烈地进取呢？

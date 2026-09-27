@@ -33,7 +33,7 @@ published: 2024-09-23 21:14:31
 
 进入官网之后，点击 DOWNLOAD 按钮
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/09/image-1024x516.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/09/image-1024x516.png)
 
 我知道你们嫌麻烦或者根本看不懂英文，我在底下贴几行命令你自己装就行。日后不要说是我干的就行
 
@@ -101,7 +101,7 @@ gpg --list-secret-keys --keyid-format=long
 
 输入回车后，会显示你 GPG 的基本信息
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/09/image-1.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/09/image-1.png)
 
 之后记下 sec 中你 GPG 密钥中的信息，列如我这里是`FDF75529AF497E0974C1FBE2D859A4CADE933693`，那么在命令行中输入
 
@@ -111,7 +111,7 @@ gpg --armor --export FDF75529AF497E0974C1FBE2D859A4CADE933693
 
 这样就会出现你的 GPG 公钥信息。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/09/image-2-1024x935.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/09/image-2-1024x935.png)
 
 复制从`-----BEGIN PGP PUBLIC KEY BLOCK-----`到`-----END PGP PUBLIC KEY BLOCK-----`为止，上传至随意一个公钥服务器即可，这边在公开网站查看和测试发现只有 Ubuntu Keyserver 还能在国内正常使用
 

@@ -31,11 +31,11 @@ Tailscale 官方对于 100 实例以下的机子、三位用户（一位所有�
 
 Tailscale 官网：[https://tailscale.com/](https://tailscale.com/)
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/07/QQ_1721401166345-1024x551.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/07/QQ_1721401166345-1024x551.png)
 
 在上方有`Download`选项，点击它。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/07/QQ_1721401214737-1024x551.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/07/QQ_1721401214737-1024x551.png)
 
 根据你的操作系统安装对应的安装包，我们以`Windows`和`Linux`做演示
 
@@ -45,7 +45,7 @@ Windows
 
 下载之后，双击打开安装包。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/07/image.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/07/image.png)
 
 点击`I agree to the license terms and conditions`，之后点击 Install.
 
@@ -91,11 +91,11 @@ tailscale login
 
 Windows 用户可以在通知中心中查看 Tailscale 发送通知，列如：
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/07/QQ_1721402495323.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/07/QQ_1721402495323.png)
 
 若是 Linux 用户可在终端中查看登录链接：
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/07/QQ_1721402644701.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/07/QQ_1721402644701.png)
 
 登录完成可在终端中看到`Success.`字样即可表示登录成功。
 
@@ -103,7 +103,7 @@ Windows 用户可以在通知中心中查看 Tailscale 发送通知，列如：
 
 进入 [https://login.tailscale.com](https://login.tailscale.com) 你可以查看到你登录到此账号下的设备。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/07/QQ_1721402796952-1024x822.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/07/QQ_1721402796952-1024x822.png)
 
 在`MACHINE`一栏为你的设备，`ADDRESSES` 是 Tailscale 为你分配的 IP 连接信息。你可以点击 Addresses 中的倒三角查看链接地址。
 

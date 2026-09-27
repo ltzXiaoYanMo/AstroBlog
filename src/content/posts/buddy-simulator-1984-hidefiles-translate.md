@@ -64,7 +64,7 @@ Journey to the North.
 
 一张图片
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/06/image-3.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/06/image-3.png)
 
 ## D
 

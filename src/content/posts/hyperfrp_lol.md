@@ -12,39 +12,39 @@ category: 招笑
 ## 神人事迹一：传奇后台撞库
 首先小y作为节点的赞助者，自然是持有 MEFrp 的服务端后台日志，之后他又发现用节点访问密钥就能登录后台
 ~~其实是问过来的~~
-![](/assets/images/hyperfrp_lol/bearer_token.jpg)
+![](https://static.ymbit.cn/images/hyperfrp_lol/bearer_token.jpg)
 
 > 欸🤓👆，那这样我是不是登录到落雪的账号了？
 
 然后这个byd还真这么干了...
 
 甚至做了 **解封自己**、**提权用户**，这么顺手？看来不是第一次干了哈。
-![](/assets/images/hyperfrp_lol/admit/1.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/admit/1.png)
 
-![](/assets/images/hyperfrp_lol/admit/2.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/admit/2.png)
 ### 原来《未成年人保护法》是这么用的吗？
-![](/assets/images/hyperfrp_lol/admit/4.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/admit/4.png)
 
-![](/assets/images/hyperfrp_lol/admit/5.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/admit/5.png)
 
 不是哥你暑假作业没写完你干这些事你胆子有些过于大了，真不怕搞事被王晶抓？
-![](/assets/images/hyperfrp_lol/admit/7.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/admit/7.png)
 
 以至于发布 political content，怕不是嫌自己命太长了。
 ## 神人事迹二：我将使用 VibeCoding 独闯天下！
 其实最开始也不是用的AI写的码，是直接 CtrlCV 过来的。甚至连产品名称都不改的那种。
-![](/assets/images/hyperfrp_lol/t_copycv.JPG)
+![](https://static.ymbit.cn/images/hyperfrp_lol/t_copycv.JPG)
 
-![](/assets/images/hyperfrp_lol/t_copycv_2.JPG)
+![](https://static.ymbit.cn/images/hyperfrp_lol/t_copycv_2.JPG)
 
 但是后期直接不演了，直接使用 AI 使用神秘截图 + CtrlCV 来写我们的新前端。
-![](/assets/images/hyperfrp_lol/woq_deepseek.PNG)
+![](https://static.ymbit.cn/images/hyperfrp_lol/woq_deepseek.PNG)
 
 我是真没招了，最难绷的是他们vite配react，还试图换用nuxt使用ssr。他们初期上线由于事情闹的非常大，而且他们的cdn用的是 MEFrp 合作伙伴的，cdn 直接把源站 ip 给到我们。然后你懂的，该拔线拔线，该打死打死。此cdn回合循环了3次。
-![](/assets/images/hyperfrp_lol/copy_newpanel.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/copy_newpanel.png)
 
 如果你说他抄袭了，那他即将红温回怼你
-![](/assets/images/hyperfrp_lol/please_lawsuit_me.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/please_lawsuit_me.png)
 
 而且再次搬出 AI 大法给你亲自写上 MEFrp 乐子网站
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -54,20 +54,20 @@ category: 招笑
 </div>
 
 ## 神人事迹三：家宽建站
-![](/assets/images/hyperfrp_lol/v6site.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/v6site.png)
 > 根据 《互联网信息服务管理办法》 ，从事经营性互联网信息服务（即通过互联网向用户有偿提供信息或网页制作等服务），必须取得监管机构颁发的增值电信业务经营许可证。
 > 申请该许可证的核心前提是，经营者必须为依法设立的公司。家庭宽带的用户通常是个人，不具备申请许可证的主体资格，因此无法合法地从事任何形式的营业性网站活动。
 
 家庭带宽**开展网站业务**且**开展营业性业务**，双buff叠满咯
 ### 被打了怎么办？拔线，睡觉！
-![](/assets/images/hyperfrp_lol/origindown,gosleep.png) 
+![](https://static.ymbit.cn/images/hyperfrp_lol/origindown,gosleep.png) 
 
 不对啊，你不说你是高防吗？
-![](/assets/images/hyperfrp_lol/ban_overseat.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/ban_overseat.png)
 
 也对，家宽哪来的高防🤣
 ## 神人事迹四：《我把群主开了》
-![](/assets/images/hyperfrp_lol/openboxyou-hahaha.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/openboxyou-hahaha.png)
 暑假作业没写完就敢干能吃国家饭的事情还是我们小Z同学干的好，提前吃上铁饭碗，直接不用愁以后的吃喝了，一个名叫 jail 的地方会给你处理好所有的事。
 
 而且不仅仅要开落雪的，还想要开 MEFrp 其中一位开发者的，看来还吃不够
@@ -82,7 +82,7 @@ category: 招笑
 </div>
 孩子，顶级智斗
 
-![](/assets/images/hyperfrp_lol/datouzhao/8.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/datouzhao/8.png)
 
 ## 神人事迹五：赶紧给我看看后台，不然飞盒子
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -98,8 +98,8 @@ category: 招笑
 我们的两位开发者小Y同学和小T同学因为语文知识才疏学浅，于是找到了他们的导师，MEFrp！
 
 ~~师傅，我抄一点你的公告可以吗？日后我不会把你供出来的哦~~
-![](/assets/images/hyperfrp_lol/steal_board1.png)
-![](/assets/images/hyperfrp_lol/steal_board2.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/steal_board1.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/steal_board2.png)
 
 你公告不仅偷了就算了，你怎么连宣传片都偷啊？
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -111,12 +111,12 @@ category: 招笑
 <source src="https://hangzhou.aliyun.oss.ymbit.cn/blog-resources/steal_board.mp4" type="video/mp4">
 </video>
 
-![啊？还有人类啊？](/assets/images/memes/human.webp)
+![啊？还有人类啊？](https://static.ymbit.cn/images/memes/human.webp)
 
 实在语文学不会的话，赶快购买九年级下册教材全解吧，链接给你放这了。
 <https://www.jd.com/chanpin/130832.html>
 ## 神人事迹七：原封不动直接抄
-![](/assets/images/hyperfrp_lol/copy_NatayarkID.jpg)
+![](https://static.ymbit.cn/images/hyperfrp_lol/copy_NatayarkID.jpg)
 我知道太长了你不想看，我直接给你简单tldr一下。
 > 人家的登录接口与 OpenFrp 的 NatayarkID 完全一样，且他们自己内部说的是"原创"，但是不仅样式一个样就算了且颜色一样而且人家Natayark的登录偏左难道你也要偏左吗？你像极了何晨光那个弹道偏左的子弹。
 > 不仅偏左而且选中光标也是一样的，我不知道你是怎么想的，难道你和云默安是一个家庭生吗的这么一个样，这个不去打CF当双子星当主播多少还有钱赚然后来这里卖你的Frp吗？
@@ -125,13 +125,13 @@ category: 招笑
 
 ## 神人事迹八：套CDN求打当场被服务商抓包
 他们的网站被 DDoS 攻击了，然后服务商认为是 MEFrp 来打的直接来找落雪讨论这件事
-![](/assets/images/hyperfrp_lol/qiudn/2.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/qiudn/2.png)
 然后服务商决定直接发来源站IP，不知道得罪服务商什么了直接投明了。🤣👉
-![](/assets/images/hyperfrp_lol/qiudn/3.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/qiudn/3.png)
 ### 甩锅？
-![](/assets/images/hyperfrp_lol/qiudn/4.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/qiudn/4.png)
 服务商：不接
-![](/assets/images/hyperfrp_lol/qiudn/5.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/qiudn/5.png)
 
 ## 神人事迹九：拿着树枝撬开了 MEFrp 管理大门
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -151,10 +151,10 @@ category: 招笑
 ~~我寻思我看的不是熊出没啊，哪来的吉吉啊~~
 
 ### 我学法律的
-![](/assets/images/hyperfrp_lol/banned_board.png)
-![](/assets/images/hyperfrp_lol/im_law_master.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/banned_board.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/im_law_master.png)
 你说得对，但是：
-![](/assets/images/hyperfrp_lol/im_14.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/im_14.png)
 
 如果你真的学法的，那我给你普个法
 > 《网络安全法》第二十二条：
@@ -170,7 +170,7 @@ category: 招笑
 > 《网络安全法》第二十七条：
 > 任何个人和组织不得从事非法侵入他人网络、干扰他人网络正常功能、窃取网络数据等危害网络安全的活动；不得提供专门用于从事侵入网络、干扰网络正常功能及防护措施、窃取网络数据等危害网络安全活动的程序、工具；明知他人从事危害网络安全的活动的，不得为其提供技术支持、广告推广、支付结算等帮助。
 
-![啊？还有人类啊？](/assets/images/memes/human.webp)
+![啊？还有人类啊？](https://static.ymbit.cn/images/memes/human.webp)
 
 ## 神人事迹十，别吵，我要串通了
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -212,7 +212,7 @@ category: 招笑
 > 最初非常大胆，做灰黑产起家，卖卡网、外挂、等等之类。由于酷爱玩迷你世界，当时被我们这群孩子整的人直接不见了，半退网。
 > 我到企查查一看，公司被撤销。撤销不同于注销，前者是有违法违纪行为。
 
-![](/assets/images/memes/Snipaste_2026-03-07_00-41-21.png)
+![](https://static.ymbit.cn/images/memes/Snipaste_2026-03-07_00-41-21.png)
 
 ## 神人事迹十三，小破公司
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -239,4 +239,4 @@ category: 招笑
 <img src="/images/hyperfrp_lol/comemyhome.png" style="flex: 1; min-width: 200px; max-width: 100%;"  alt=""/>
 </div>
 
-![](/assets/images/hyperfrp_lol/admit/8.png)
+![](https://static.ymbit.cn/images/hyperfrp_lol/admit/8.png)

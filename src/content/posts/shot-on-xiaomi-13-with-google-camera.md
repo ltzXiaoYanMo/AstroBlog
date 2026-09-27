@@ -18,12 +18,12 @@ category: 技术分享
 我认为你可以看一下样片（
 
 自带相机：
-![](/assets/images/shot-on-xiaomi-13-with-google-camera/IMG_20250402_172848.jpg)
-![](/assets/images/shot-on-xiaomi-13-with-google-camera/IMG_20250402_172917.jpg)
+![](https://static.ymbit.cn/images/shot-on-xiaomi-13-with-google-camera/IMG_20250402_172848.jpg)
+![](https://static.ymbit.cn/images/shot-on-xiaomi-13-with-google-camera/IMG_20250402_172917.jpg)
 
 Google Camera：
-![](/assets/images/shot-on-xiaomi-13-with-google-camera/PXL_20250402_173101879.jpg)
-![](/assets/images/shot-on-xiaomi-13-with-google-camera/PXL_20250402_173155297.jpg)
+![](https://static.ymbit.cn/images/shot-on-xiaomi-13-with-google-camera/PXL_20250402_173101879.jpg)
+![](https://static.ymbit.cn/images/shot-on-xiaomi-13-with-google-camera/PXL_20250402_173155297.jpg)
 
 具体怎么样见仁见智了，如果你具体需要换成Google Camera的话，那你可以继续看下去。
 
@@ -33,7 +33,7 @@ Google Camera：
 <https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera>
 
 但是你是知道的（
-![](/assets/images/shot-on-xiaomi-13-with-google-camera/google-play-in-camera.png)
+![](https://static.ymbit.cn/images/shot-on-xiaomi-13-with-google-camera/google-play-in-camera.png)
 
 所以我们需要另外一种方法使用 Google Camera，那就是旧版本的。
 

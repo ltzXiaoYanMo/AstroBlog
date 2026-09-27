@@ -5,7 +5,7 @@ tags: [乐子分享]
 category: 乐子分享
 draft: true
 ---
-## 很明显的问题
+# 很明显的问题
 [《中华人民共和国劳动法》](https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_d9aa750028b14b99a776cb93726a360d.html)第十五条、第九十四条、第九十五条中：
 > 第十五条　禁止用人单位招用未满十六周岁的未成年人。
 > 文艺、体育和特种工艺单位招用未满十六周岁的未成年人，必须遵守国家有关规定，并保障其接受义务教育的权利。
@@ -14,40 +14,46 @@ draft: true
 
 而你张予矾大神自称拿到了杭州武当云谷的 offer，虽然不知道是否属实，也不清楚是不是新闻学学的。从这一点能看出这个十有八九是假的。
 
-## 12岁前往 AdventureX 2026，但是结果与奖项不对等？
+# 12岁前往 AdventureX 2026，但是结果与奖项不对等？
 中国最大的黑客松 AdventureX，据现场人讲述，似乎张予矾大神也去了。
 
 鄙人仅在 AdventureX 中才拿到了Kimi for Vibe Coding赛道二等奖、共享算力赛道二等奖。（同行朋友为腾讯云二等奖）
 
-<https://gallery.adventure-x.org/projects/550d28db-d082-42a3-99c0-f1f8c0d90633?event=advx-2025>
+<https://gallery.adventure-x.cn/projects/550d28db-d082-42a3-99c0-f1f8c0d90633?event=advx-2025>
+
+但是他的项目嘛
+
+<https://gallery.adventure-x.cn/projects/cmrzxo24k000702kyborndqs7>
+
+什么叫交了个地图上去？你这对吗？
 
 赛道方想法是：
 
-![](/assets/images/mick-lol/playbooks-donteat.png)
+![](https://static.ymbit.cn/images/mick-lol/playbooks-donteat.png)
 
-## 说是写的代码，实际上是 Roblox 游戏地图
+# 说是写的代码，实际上是 Roblox 游戏地图
 [4岁学scratch,5岁学Python。9岁就能开发10多款游戏 - 哔哩哔哩](https://www.bilibili.com/video/BV1YV3X6eE8m)
 
-![](/assets/images/mick-lol/roblox-studio-for-bili.png)
+![](https://static.ymbit.cn/images/mick-lol/roblox-studio-for-bili.png)
 
 《不做游戏你玩游戏有什么意义呢？》
 
 哦你的意思是做游戏是你做地图就是做了一个游戏。你怕这个百万级别的代码的Co-Author是不是一个叫豆包啊？
 
-![](/assets/images/mick-lol/doubao.png)
+![](https://static.ymbit.cn/images/mick-lol/doubao.png)
 
 哦还真是🤣👉
 
 甚至你还用英文去问，那你至少得用ChatGPT、Claude这些啊，怎么不用呢？是不是被封号了
 
-![](/assets/images/memes/6477988D10D03BD3F8FF7B49ADF17635.jpg)
+![](https://static.ymbit.cn/images/memes/6477988D10D03BD3F8FF7B49ADF17635.jpg)
 
 回到那个图里，甚至还是写 Roblox 的 Lua 脚本。在实验室玩 Roblox 也算写代码，那我天天玩 MC 写插件写模组算什么
 
 ## 关于 MCN 机构
 关于孩子，我们也不能这么长篇大论的批斗他。问题在于他的家长与对应的MCN机构
 
-![](/assets/images/mick-lol/advx-playbooks.png)
+![](https://static.ymbit.cn/images/mick-lol/advx-playbooks.png)
 
 现代社会处于一个**整体稳、青年难；蓝领缺、白领卷；存量行业收缩、增量行业门槛高。**，而高端人才越来越紧缺。而MCN机构赶巧抓住了这一点，才打造了
 年龄小、实力强、已获得稳定工作的一个小孩。让自身获得更多关注。
@@ -56,7 +62,7 @@ draft: true
 
 为此，我加了他们的粉丝群。
 
-![](/assets/images/mick-lol/ads.jpg)
+![](https://static.ymbit.cn/images/mick-lol/ads.jpg)
 
 哦，原来是卖课的，那我就理解了。
 

@@ -5,7 +5,7 @@ tags: [杂谈]
 category: 杂谈
 ---
 
-![](/assets/images/china-redhack-attack/2d7048e31787d314bb213d4cc38d484d.png)
+![](https://static.ymbit.cn/images/china-redhack-attack/2d7048e31787d314bb213d4cc38d484d.png)
 
 视频：
 
