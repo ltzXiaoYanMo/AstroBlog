@@ -14,11 +14,11 @@ published: 2024-08-09 00:13:23
 
 但实际上，他是一封被审查的邮件。
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/08/image-1024x727.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/08/image-1024x727.png)
 
 后期直接被追加停号子
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/08/image-1-1024x431.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/08/image-1-1024x431.png)
 
 期间向 Cloudflare Abuse 部门提出申诉无果。Cloudflare 方一直告诉我违反了它们的 Terms，实际上他们的 Terms 狗屁没有提到搭建 GH 代理有什么问题。
 
@@ -34,6 +34,6 @@ he~tui！
 
 ## 后续
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/08/image-3-1024x441.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/08/image-3-1024x441.png)
 
 我号子大抵是救不回来了 悲

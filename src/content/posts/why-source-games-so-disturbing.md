@@ -5,7 +5,7 @@ category: 杂谈
 published: 2024-07-03 14:26:49
 ---
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/06/image-4.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/06/image-4.png)
 
 ## 参考来源
 

@@ -32,15 +32,15 @@ Amazon Simple Storage Service（Amazon S3）是一种对象存储服务，提供
 ## 使用 Rclone
 我们使用 Cloudflare R2 作为对象存储，~~因为我没有其他支持S3的对象存储了~~
 在 Terminal 下输入`rclone config`配置 rclone.
-![](/assets/images/upload-to-amazon-s3-protocol-using-rclone/rclone_config.png)
+![](https://static.ymbit.cn/images/upload-to-amazon-s3-protocol-using-rclone/rclone_config.png)
 输入 `n` 新增一个 new remote.
-![](/assets/images/upload-to-amazon-s3-protocol-using-rclone/rclone_new.png)
+![](https://static.ymbit.cn/images/upload-to-amazon-s3-protocol-using-rclone/rclone_new.png)
 在`name >`中写一个名字，列如我写 Cloudflare-R2.
 
 在`Storage >`中选择`4`, 也就是`Amazon S3 Compliant Storage Providers`（亚马逊S3协议）
-![](/assets/images/upload-to-amazon-s3-protocol-using-rclone/rclone_choose_storages.png)
+![](https://static.ymbit.cn/images/upload-to-amazon-s3-protocol-using-rclone/rclone_choose_storages.png)
 然后在 `provider >`中选择`6`, 也就是`Cloudflare R2 Storage`
-![](/assets/images/upload-to-amazon-s3-protocol-using-rclone/rclone_choose_providers.png)
+![](https://static.ymbit.cn/images/upload-to-amazon-s3-protocol-using-rclone/rclone_choose_providers.png)
 在`env_auth`中选择`1`, 我们要选择`Enter AWS credentials in the next step.`（在下一步中输入AWS凭据。）
 
 在输入`access_key_id`中我们需要前往 Cloudflare Dashboard.
@@ -50,7 +50,7 @@ Amazon Simple Storage Service（Amazon S3）是一种对象存储服务，提供
 创建完毕后，前往 `API - 管理 API 令牌`, 创建 API 令牌即可: <https://developers.cloudflare.com/r2/api/s3/tokens/>
 
 将上面的令牌填入 Rclone 即可
-![](/assets/images/upload-to-amazon-s3-protocol-using-rclone/rclone_successful.png)
+![](https://static.ymbit.cn/images/upload-to-amazon-s3-protocol-using-rclone/rclone_successful.png)
 
 ## Sync
 Rclone 本质上还是同步文件，所以上传文件我们使用`rclone sync`命令.

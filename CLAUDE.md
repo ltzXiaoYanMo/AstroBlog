@@ -8,18 +8,18 @@ Firefly is a feature-rich static blog theme built on **Astro 7** with **Svelte 5
 
 ## Commands
 
-| Command | Purpose |
-|---|---|
-| `pnpm dev` | Dev server at `localhost:4321` |
-| `pnpm build` | Production build (LQIPs → VNDB covers → Astro build → pio asset pruning → font subsetting → Pagefind indexing) |
-| `pnpm preview` | Preview production build |
-| `pnpm check` | `astro check` for type/error checking |
-| `pnpm type-check` | `tsc --noEmit --isolatedDeclarations` (covers `src/` and `scripts/`) |
-| `pnpm lint` | Biome lint + auto-fix |
-| `pnpm format` | Biome format |
-| `pnpm new-post <filename>` | Scaffold a new blog post |
-| `pnpm new-dynamic` (`new-d`) | Scaffold a new dynamic (microblog) entry |
-| `pnpm lqips` | Regenerate LQIP data into `src/constants/lqips.json` |
+| Command                      | Purpose                                                                                                        |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| `pnpm dev`                   | Dev server at `localhost:4321`                                                                                 |
+| `pnpm build`                 | Production build (LQIPs → VNDB covers → Astro build → pio asset pruning → font subsetting → Pagefind indexing) |
+| `pnpm preview`               | Preview production build                                                                                       |
+| `pnpm check`                 | `astro check` for type/error checking                                                                          |
+| `pnpm type-check`            | `tsc --noEmit --isolatedDeclarations` (covers `src/` and `scripts/`)                                           |
+| `pnpm lint`                  | Biome lint + auto-fix                                                                                          |
+| `pnpm format`                | Biome format                                                                                                   |
+| `pnpm new-post <filename>`   | Scaffold a new blog post                                                                                       |
+| `pnpm new-dynamic` (`new-d`) | Scaffold a new dynamic (microblog) entry                                                                       |
+| `pnpm lqips`                 | Regenerate LQIP data into `src/constants/lqips.json`                                                           |
 
 Package manager is **pnpm** (enforced). Node.js >= 22 required.
 

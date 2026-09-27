@@ -15,7 +15,7 @@ category: 杂谈
 
 而且就是朋友都是因 Hexo 的臃肿才转到的 Astro 的，但是我怎么感觉 Astro 更大呢（
 
-![](/assets/images/migration-to-astro/file.png)
+![](https://static.ymbit.cn/images/migration-to-astro/file.png)
 
 
 # 怎么换？
@@ -25,7 +25,7 @@ category: 杂谈
 
 所以我基本没花多少时间就完成了，感谢DeepSeek（
 
-![](/assets/memes/2A8815D2CF9A4BB8EE4677936DEB62AF.jpg)
+![](https://static.ymbit.cn/images/memes/2A8815D2CF9A4BB8EE4677936DEB62AF.jpg)
 
 # 关于迁移到 Astro
 ## Markdown

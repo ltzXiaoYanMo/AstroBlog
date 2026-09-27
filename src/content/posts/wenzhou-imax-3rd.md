@@ -22,9 +22,9 @@ $$
 龙湾万达店的 IMAX 是 22.3m × 11.7m（约 261㎡），这块幕比人家小了整整 100 平方米。在温州现有的 IMAX 里，它排第二，~~倒数第二~~。
 
 ## 音箱设备
-![自己现场拍的](/assets/images/wenzhou-imax-3rd/up-sound.png)
+![自己现场拍的](https://static.ymbit.cn/images/wenzhou-imax-3rd/up-sound.png)
 
-![官网](/assets/images/wenzhou-imax-3rd/dde8f124-cfe8-4861-b1e3-0c2c7292782c.jpg_560xaf.jpg)
+![官网](https://static.ymbit.cn/images/wenzhou-imax-3rd/dde8f124-cfe8-4861-b1e3-0c2c7292782c.jpg_560xaf.jpg)
 
 按照 IMAX 对于第三代激光来做的音箱系统。（12声道系统：银幕后四个声道，天花板四个声道，左右各两个声道）
 
@@ -40,13 +40,13 @@ $$
 
 # 影院播放（内围配置）
 硬件底子不错，放映质量对得起 IMAX 这块招牌。
-![航拍](/assets/images/wenzhou-imax-3rd/IMG_0202.jpg)
+![航拍](https://static.ymbit.cn/images/wenzhou-imax-3rd/IMG_0202.jpg)
 
-![独眼巨人（洞内）](/assets/images/wenzhou-imax-3rd/IMG_0203.jpg)
+![独眼巨人（洞内）](https://static.ymbit.cn/images/wenzhou-imax-3rd/IMG_0203.jpg)
 
-![海面](/assets/images/wenzhou-imax-3rd/IMG_0206.jpg)
+![海面](https://static.ymbit.cn/images/wenzhou-imax-3rd/IMG_0206.jpg)
 
-![人物对话](/assets/images/wenzhou-imax-3rd/IMG_0200.jpg)
+![人物对话](https://static.ymbit.cn/images/wenzhou-imax-3rd/IMG_0200.jpg)
 
 > [!NOTE] 提示
 > 屏摄仅供参考，实际观感的亮度、对比度和色彩深度远高于照片所示。手机 HDR 算法会抹平很多光影层次，肉眼看是另一回事。

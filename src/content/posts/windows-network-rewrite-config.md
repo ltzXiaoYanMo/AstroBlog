@@ -66,7 +66,7 @@ Microsoft Connect Test
 
 若你的系统正常且未经过任何修改，应该注册表信息如下为：
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/08/image-5-1024x536.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/08/image-5-1024x536.png)
 
 首先我们需要修改以下信息（分情况）：
 
@@ -111,13 +111,13 @@ ActiveDnsProbeHostV6 # 在设置了AAAA记录情况下，注释不需要输入
 
 `ActiveDnsProbeHost` 主要解析 A 记录，也就是 IPv4 记录，你可以这么填写：
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/08/image-6.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/08/image-6.png)
 
 IPv4 地址可以修改，但需要遵守 RFC 的标准，不然无法添加解析。
 
 `ActiveDnsProbeHostV6` 主要解析 AAAA 记录，也就是 IPv6 记录，你可以这么填写：
 
-![](https://blog.ymbit.cn/wp-content/uploads/2024/08/image-7.png)
+![](https://static.ymbit.cn/wp-content/uploads/2024/08/image-7.png)
 
 IPv6 地址可以修改，但仍然需要遵守 RFC 的标准，不然无法添加解析。
 
