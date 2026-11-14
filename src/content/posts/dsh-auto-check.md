@@ -5,10 +5,10 @@ published: 2026-11-08
 category: 技术分享
 tags:
   - 技术分享
-slug: dsh-auto-check - 让模型该干自己正确的事
+slug:
 zhihu-title: dsh-auto-check - 让模型该干自己正确的事
 zhihu-topics: []
-zhihu-link:
+zhihu-link: https://zhuanlan.zhihu.com/p/2104887300173869880
 ---
 # 这是什么插件？它能做什么？
 
